@@ -1,4 +1,4 @@
-Snaphax: a PHP library to use the Snapchat API
+Snaphax: a PHP library to use APIs
 ==============================================
 
 This library allows you to communicate with an app's servers using their
