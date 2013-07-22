@@ -13,7 +13,7 @@ Pretty simple:
 	require_once('snaphax/snaphax.php');
 
 	$opts = array();
-	$opts['domain'] = 'https://example.com' // We totally don't suggest you put "https://feelinsonice.appspot.com" (SnapChat's API endpoint) because that'd break their TOS
+	$opts['url'] = 'https://example.com' // We totally don't suggest you put "https://feelinsonice.appspot.com" (SnapChat's API endpoint) because that'd break their TOS
 	$opts['username'] = 'username';
 	$opts['password'] = 'password';
 	$opts['debug'] = 1; 
